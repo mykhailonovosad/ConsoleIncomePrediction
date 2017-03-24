@@ -1,0 +1,10 @@
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\ConsoleIncomePrediction.exe.config
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\ConsoleIncomePrediction.exe
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\ConsoleIncomePrediction.pdb
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\Newtonsoft.Json.dll
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\System.Net.Http.Formatting.dll
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\Newtonsoft.Json.xml
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\bin\Debug\System.Net.Http.Formatting.xml
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\obj\Debug\ConsoleIncomePrediction.csprojResolveAssemblyReference.cache
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\obj\Debug\ConsoleIncomePrediction.exe
+C:\Sources\ConsoleIncomePrediction\ConsoleIncomePrediction\obj\Debug\ConsoleIncomePrediction.pdb
